@@ -69,13 +69,3 @@ class Skills extends SoftwareDeveloper {
 </p>
 <br />
 
-![Akash's github stats](https://github-readme-stats.vercel.app/api?username=jaypatel-jb&count_private=true&show_icons=true&theme=shades-of-purple&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaypatel-jb&layout=compact&langs_count=10&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=jaypatel-jb&count_private=true&theme=radical" alt="mostlypanda">
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaypatel-jb&theme=vue" alt="summarycard"/> </p>
-<img src="https://github-profile-trophy.vercel.app/?username=jaypatel-jb&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
-
-
-  <!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
